@@ -1,0 +1,15 @@
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\bin\Debug\net10.0\ExamenU1.exe
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\bin\Debug\net10.0\ExamenU1.deps.json
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\bin\Debug\net10.0\ExamenU1.runtimeconfig.json
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\bin\Debug\net10.0\ExamenU1.dll
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\bin\Debug\net10.0\ExamenU1.pdb
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.AssemblyInfoInputs.cache
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.AssemblyInfo.cs
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.csproj.CoreCompileInputs.cache
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.sourcelink.json
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.dll
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\refint\ExamenU1.dll
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.pdb
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ExamenU1.genruntimeconfig.cache
+C:\Users\cmngd\OneDrive\Escritorio\Examen 1 POO\ExamenU1\obj\Debug\net10.0\ref\ExamenU1.dll
