@@ -1,5 +1,4 @@
 ﻿using System;
-using Ejercicios.Ejercicio1;
 
 namespace Project01
 {
