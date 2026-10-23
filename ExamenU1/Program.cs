@@ -10,9 +10,7 @@ namespace Project01
             while (opcion != 6)
             {
                 Console.Clear();
-                Console.WriteLine("========================================");
                 Console.WriteLine("       MENÚ PRINCIPAL - EXAMEN U1       ");
-                Console.WriteLine("========================================");
                 Console.WriteLine("1. Ejercicio 1: Cotizador de envíos");
                 Console.WriteLine("2. Ejercicio 2: Simulador de carga de combustible");
                 Console.WriteLine("3. Ejercicio 3: Control de asistencia a un taller");

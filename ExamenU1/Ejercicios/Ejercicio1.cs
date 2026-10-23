@@ -1,5 +1,3 @@
-using System;
-
 namespace Project01
 {
     public class Ejercicio01
@@ -7,7 +5,7 @@ namespace Project01
         public static void Ejecutar()
         {
             Console.Clear();
-            Console.WriteLine("--- EJERCICIO 1: COTIZADOR DE ENVÍOS ---");
+            Console.WriteLine("EJERCICIO 1: COTIZADOR DE ENVÍOS");
 
             int zona = 0;
             while (zona < 1 || zona > 3)
@@ -92,9 +90,7 @@ namespace Project01
             decimal totalPagar = subtotalConSeguro - descuento;
             string tipoSeguroTexto = (valorDeclarado > 5000.00m) ? "Envío asegurado" : "Envío sin seguro";
 
-            Console.WriteLine("\n========================================");
             Console.WriteLine("            RECIBO DE ENVÍO             ");
-            Console.WriteLine("========================================");
             Console.WriteLine($"Tarifa base: {tarifaBase:C2}");
             Console.WriteLine($"Recargo por peso: {recargoPeso:C2}");
             Console.WriteLine($"Recargo por servicio: {recargoServicio:C2}");
@@ -102,7 +98,6 @@ namespace Project01
             Console.WriteLine($"Subtotal con seguro: {subtotalConSeguro:C2}");
             Console.WriteLine($"Descuento aplicado: {descuento:C2}");
             Console.WriteLine($"TOTAL A PAGAR: {totalPagar:C2}");
-            Console.WriteLine("========================================");
         }
     }
 }

@@ -1,5 +1,3 @@
-using System;
-
 namespace Project01
 {
     public class Ejercicio02
@@ -7,7 +5,7 @@ namespace Project01
         public static void Ejecutar()
         {
             Console.Clear();
-            Console.WriteLine("--- EJERCICIO 2: CARGA DE COMBUSTIBLE ---");
+            Console.WriteLine("EJERCICIO 2: SIMULADOR DE CARGA DE COMBUSTIBLE");
 
             int tipoCombustible = 0;
             while (tipoCombustible < 1 || tipoCombustible > 3)
@@ -58,15 +56,12 @@ namespace Project01
 
             decimal totalPagar = subtotal - descuento;
 
-            Console.WriteLine("\n========================================");
             Console.WriteLine("         RESUMEN DE COMBUSTIBLE         ");
-            Console.WriteLine("========================================");
             Console.WriteLine($"Combustible: {nombreCombustible}");
             Console.WriteLine($"Total litros: {litrosCargados:F2} L");
             Console.WriteLine($"Subtotal: {subtotal:C2}");
             Console.WriteLine($"Descuento: {descuento:C2}");
             Console.WriteLine($"TOTAL A PAGAR: {totalPagar:C2}");
-            Console.WriteLine("========================================");
         }
     }
 }
