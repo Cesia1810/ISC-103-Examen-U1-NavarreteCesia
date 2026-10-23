@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenPOO\\ExamenPOO.csproj",
-      "projectName": "ExamenPOO",
-      "projectPath": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenPOO\\ExamenPOO.csproj",
+      "projectUniqueName": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenU1\\ExamenU1.csproj",
+      "projectName": "ExamenU1",
+      "projectPath": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenU1\\ExamenU1.csproj",
       "packagesPath": "C:\\Users\\cmngd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenPOO\\obj\\",
+      "outputPath": "C:\\Users\\cmngd\\OneDrive\\Escritorio\\Examen 1 POO\\ExamenU1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmngd\\AppData\\Roaming\\NuGet\\NuGet.Config"
